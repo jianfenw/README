@@ -26,7 +26,13 @@ If you want to highlight some words in your README.md, you can use \`\` to wrap 
 
 ## External weblink
 
-[ your words]( your weblink "your mouseover")
+[your words]( your weblink "your mouseover")
+
+Here is an example:
+```
+[google](http://www.google.com "google")
+```
+[google](http://www.google.com "google")
 
 ## Some marks
 
