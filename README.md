@@ -18,7 +18,7 @@ You may notice there is a line under the words. It means you have created a new 
 
 ## Linefeed
 
-Typing a 'Enter' does not make any change. Unlike a normal texteditor, you have to use \<br> for linefeed.
+Typing a 'Enter' does not make any change. Unlike a normal texteditor, you have to use \<br> for linefeed. Also, you can seperate paragraphs with a single line and create a single line gap.
 
 ## Single line text
 
@@ -31,4 +31,61 @@ If you want to highlight some words in your README.md, you can use \`\` to wrap 
 ## External weblink
 
 [ your words]( your weblink "your mouseover")
+
+## Some marks
+
+Use '*' to create a solid dot. For example:
+* First
+* Second
+
+Also, you can use 'Tab' to create different layers. For example:
+* First
+	* First-sub-1
+		* First-sub-1-sub-1
+
+## Tree struct
+
+\>Earth
+\>>US
+\>>>California
+\>>>>Los Angeles<br>
+It looks like ...
+>Earth
+>>US
+>>>California
+>>>>Los Angeles
+
+## External photo
+
+Use ! + [img Tag](img URL "img mouseover")
+
+![Cute Cat](https://s-media-cache-ak0.pinimg.com/736x/ba/03/23/ba03237a6d6499f0e2633314826e1526--cutest-animals-baby-animals.jpg "Cute Cat")
+
+Also, you can substitute the external img URL with your own img which is stored in your github repository if you believe it's more 'stable'.
+
+## External photo with an external weblink
+
+Refer to the 'External weblink' and 'External Photo' part. You can combine them together and load a external photo with an external weblink.
+
+## Code
+
+Wrap your code with ` ``. For example:
+
+\```
+int main(argc, argv[]){ // C code
+	return 0;
+}
+\```
+
+```
+int main(argc, argv[]){
+	return 0;
+}
+```
+
+
+
+
+
+
 
