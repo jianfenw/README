@@ -4,7 +4,7 @@ README.md is a text file in Markdown format. Markdown is created to easily edit 
 
 Create a new project and write your own README.md for your project! You can even edit it online and see the changes immediately (click the "Preview" bottom).<br>
 
-# How to craete a title
+# How to create a title
 Large title:<br>
 \# + your words
 
@@ -16,7 +16,7 @@ You may notice there is a line under the words. It means you have created a new 
 
 # How to edit text
 
-## Linefeed
+## * Linefeed
 
 Typing a 'Enter' does not make any change. Unlike a normal texteditor, you have to use \<br> for linefeed. Also, you can seperate paragraphs with a single line and create a single line gap.
 
