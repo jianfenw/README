@@ -1,10 +1,13 @@
 # README
 This project gives a demo about the interesting README.md file. You may notice that you should have a README.md file, but do you know how to write a better README.md file?<br>
-README.md is a text file in Markdown format. Markdown is created to easily edit your blog. However, the Markdown used by github is a modified version of the standard Markdown and is called Github Flavored Markdown (GFM).<br>
+README.md is a text file in Markdown format. Markdown is created to easily edit your blog. However, the Markdown used by github is a modified version of the standard Markdown and is called Github Flavored Markdown (GFM).
+
 Create a new project and write your own README.md for your project! You can even edit it online and see the changes immediately (click the "Preview" bottom).<br>
+
 # How to craete a title
 Large title:<br>
-\# + your words<br>
+\# + your words
+
 Middle title:<br>
 your words<br>
 \----
