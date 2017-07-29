@@ -22,7 +22,12 @@ Typing a 'Enter' does not make any change. Unlike a normal texteditor, you have 
 Add two 'Tab' to make a single line text.
 ## Highlight words
 
-If you want to highlight some words in your README.md, you can use \`\` to wrap the words that you'd like to highlight.
+If you want to highlight some words in your README.md, you can use \`\` to wrap the words that you'd like to highlight.<br>
+For example:
+```
+README is `great`!
+```
+README is `great`!
 
 ## External weblink
 
