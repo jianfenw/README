@@ -69,7 +69,8 @@ Also, you can use 'Tab' to create different layers. For example:
 \>Earth<br>
 \>>US<br>
 \>>>California<br>
-\>>>>Los Angeles<br>
+\>>>>Los Angeles
+
 It looks like ...
 >Earth
 >>US
@@ -116,7 +117,7 @@ echo "Hello World!"
 
 # Write your own README
 
-Now, you have got the hammer for building a README.md for your own projects. DO IT!
+Now, you have got the hammer to build a README.md for your own projects. DO IT!
 
 #
 Please Star this project if you find it interesting and helpful<br>
