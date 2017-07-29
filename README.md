@@ -10,10 +10,9 @@ Create a new project and write your own README.md for your project! You can even
 Large title: 
 
 \# + your words
-
 Middle title:
 
-your words
+your words<br>
 \----
 
 You may notice there is a line under the words. It means you have created a new title. You can also create a line to seperate paragraghs by type a "#".
