@@ -69,19 +69,32 @@ Refer to the 'External weblink' and 'External Photo' part. You can combine them 
 
 ## Code
 
-Wrap your code with ` ``. For example:
+Wrap your code with \```. I will give two examples about the C code and bash command code.
 
-\```<br>
+\```c<br>
 int main(argc, argv[]){ // C code <br>
 	return 0; <br>
 } <br>
 \```
 
-```
+```c
 int main(argc, argv[]){
 	return 0;
 }
 ```
+
+\```Bash<br>
+echo "Hello World!"<br>
+\```
+
+```Bash
+echo "Hello World!"
+```
+
+#
+Please Star this project if you find it interesting and helpful
+[My Personal Page](http://jwangee.github.io "jwangee")
+copyright @ jwangee
 
 
 
