@@ -45,9 +45,9 @@ Also, you can use 'Tab' to create different layers. For example:
 
 ## Tree struct
 
-\>Earth
-\>>US
-\>>>California
+\>Earth<br>
+\>>US<br>
+\>>>California<br>
 \>>>>Los Angeles<br>
 It looks like ...
 >Earth
