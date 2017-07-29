@@ -47,10 +47,19 @@ Here is an example:
 ## Some marks
 
 Use '*' to create a solid dot. For example:
+```
+* First
+* Second
+```
 * First
 * Second
 
 Also, you can use 'Tab' to create different layers. For example:
+```
+* First
+	* First-sub-1
+		* First-sub-1-sub-1
+```
 * First
 	* First-sub-1
 		* First-sub-1-sub-1
