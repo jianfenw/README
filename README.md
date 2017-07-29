@@ -16,14 +16,10 @@ You may notice there is a line under the words. It means you have created a new 
 
 # How to edit text
 
-## * Linefeed
-
+## Linefeed
 Typing a 'Enter' does not make any change. Unlike a normal texteditor, you have to use \<br> for linefeed. Also, you can seperate paragraphs with a single line and create a single line gap.
-
 ## Single line text
-
 Add two 'Tab' to make a single line text.
-
 ## Highlight words
 
 If you want to highlight some words in your README.md, you can use \`\` to wrap the words that you'd like to highlight.
