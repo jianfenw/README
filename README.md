@@ -79,7 +79,9 @@ It looks like ...
 ## External photo
 
 Use ! + [img Tag](img URL "img mouseover")
-
+```
+![Cute Cat](https://s-media-cache-ak0.pinimg.com/736x/ba/03/23/ba03237a6d6499f0e2633314826e1526--cutest-animals-baby-animals.jpg "Cute Cat")
+```
 ![Cute Cat](https://s-media-cache-ak0.pinimg.com/736x/ba/03/23/ba03237a6d6499f0e2633314826e1526--cutest-animals-baby-animals.jpg "Cute Cat")
 
 Also, you can substitute the external img URL with your own img which is stored in your github repository if you believe it's more 'stable'.
