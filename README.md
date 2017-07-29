@@ -18,6 +18,11 @@ You may notice there is a line under the words. It means you have created a new 
 
 ## Linefeed
 Typing a 'Enter' does not make any change. Unlike a normal texteditor, you have to use \<br> for linefeed. Also, you can seperate paragraphs with a single line and create a single line gap.
+```
+I want a linefeed here<br>Yes, I get it.
+```
+I want a linefeed here<br>Yes, I get it.
+
 ## Single line text
 Add two 'Tab' to make a single line text.
 ## Highlight words
