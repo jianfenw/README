@@ -114,6 +114,10 @@ echo "Hello World!"<br>
 echo "Hello World!"
 ```
 
+# Write your own README
+
+Now, you have got the hammer for building a README.md for your own projects. DO IT!
+
 #
 Please Star this project if you find it interesting and helpful<br>
 [My Personal Page](http://jwangee.github.io "jwangee")<br>
