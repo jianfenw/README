@@ -71,10 +71,10 @@ Refer to the 'External weblink' and 'External Photo' part. You can combine them 
 
 Wrap your code with ` ``. For example:
 
-\```
-int main(argc, argv[]){ // C code
-	return 0;
-}
+\```<br>
+int main(argc, argv[]){ // C code <br>
+	return 0; <br>
+} <br>
 \```
 
 ```
