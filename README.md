@@ -92,8 +92,8 @@ echo "Hello World!"
 ```
 
 #
-Please Star this project if you find it interesting and helpful
-[My Personal Page](http://jwangee.github.io "jwangee")
+Please Star this project if you find it interesting and helpful<br>
+[My Personal Page](http://jwangee.github.io "jwangee")<br>
 copyright @ jwangee
 
 
